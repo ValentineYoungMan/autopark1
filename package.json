@@ -2,7 +2,7 @@
   "name": "autopark",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ValentineYoungMan.github.io/autopark",
+  "homepage": "https://ValentineYoungMan.github.io/autopark1",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
